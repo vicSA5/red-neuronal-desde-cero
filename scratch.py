@@ -1,5 +1,4 @@
 import numpy as np
-import matplotlib.pyplot as plt
 
 # Clase neurona
 # * Métodos: __init__, forward(entrada neurona) -> calculo neurona, backward(Gradiente de la salida) -> Gradiente de la entrada, actualizarPesos(learning_rate)
